@@ -1,0 +1,92 @@
+.container{
+    border: 30px solid #E7E9EB;
+    margin-right: 200px;
+    margin-left: 200px;
+    height: 60%;
+    margin-top: 10px;
+    background-color: #000000;
+    
+}
+.div1{
+    color: #84C754;
+    font-family: 'Azeret Mono', monospace;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.ul{
+    padding-top: 10px;
+    color: #84C754;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.ul li a:link{
+    text-decoration: none;
+}
+.ul li a{
+    color:  #84C754;
+}
+.ul li a:hover{
+    color: white;
+}
+.side-bar{
+    display: block;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 40%;
+    height: 7%;
+    margin-left: 285px;
+    letter-spacing: 1.5px;
+    margin-top: 7px;
+    
+}
+.link{
+      display: block;
+      line-height: 5px;
+      width: 190px;
+      text-decoration: none;
+      padding: 0px;
+      padding-left: 5px;
+}
+.para{
+    word-spacing: 5px ;
+    font-size: 18px;
+    padding-left: 10px;
+}
+.para1{
+    font-size: 18px;
+    word-spacing: 2px;
+    letter-spacing: 1.5px;
+    line-height: 30px;
+}
+.para2{
+    color: white;
+    font-size: 18px;
+    letter-spacing: 1.5px;
+    word-spacing: 5px;
+}
+.para2:hover{
+    color: #84C754;
+}
+.para3{
+    font-size: 20px;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+.ashraf0{
+    border: 1px solid white;
+    margin-top: 6px;
+    margin-left: 20px;
+    padding: 0px 10px;
+    width: 813px;
+    height: 100px;
+    display: flex;
+    text-align:justify;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 100px;
+    word-spacing: 5px;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+}

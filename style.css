@@ -1,0 +1,130 @@
+body{
+      border: 30px solid #E7E9EB;
+      margin-right: 200px;
+      margin-left: 200px;
+      height: 60%;
+      margin-top: 10px;
+      padding-left: 20px;
+      overflow: auto;
+      background-color: #FFFFFF;
+      
+  }
+.style1{
+      border: none;
+      margin: 25px 10px;
+      padding-left: 18px;
+      padding-top: 5px;
+      background-color: #04AA6D;
+      border-radius: 5px;
+      color: white;
+      width: 813px;
+      height: 80px;
+      display: inline-block;
+      margin-bottom: 5px;
+}
+.style2{
+      font-size: 40px;
+}
+
+#active {
+      background-color: #04AA6D;
+      color: white;
+}
+.link{
+      display: block;
+      margin-left: 10px;
+      margin-top: 5px;
+      line-height: 40px;
+      font-size: 1.3rem;
+      border-radius: 5px;
+      background-color:#F1F1F1;
+      width: 190px;
+      text-decoration: none;
+      padding: 0px;
+      padding-left: 5px;
+}
+
+.link:hover{
+      background-color: white;
+}  
+.div0{
+      width: 400px;
+      margin-left: 25px;
+}
+.h1{
+      font-size: 40px;
+}
+.div4{
+      margin-left: 10px;
+      box-sizing: border-box;
+      padding: 5px 10px;
+      font-size: 1.5rem;
+      border-radius: 5px;
+      background-color:#04AA6D;
+      width: 190px;
+      margin-bottom: 5px;}
+.div3{
+      color: white;
+}
+.div4 a:link{
+      text-decoration: none;
+}
+.side{
+      border: none;
+      margin-left: 10px;
+      margin-top: 5px;
+      width: 195px;
+      padding-left: 10px;
+      padding-bottom: 10px;
+      height: 500px;
+      font-size: 20px;
+      border-radius: 5px;
+      padding-top: 10px;
+      background-color: #32A4E7;
+      color: white;
+}
+.ashraf0{
+      border: 1px solid gray;
+      background-color: #F1F1F1;
+      margin-top: 8px;
+      margin-left: 10px;
+      padding-bottom: 10px;
+      width: 827.5px;
+      padding-top: 0px;
+      height: 90px;
+      display: flex;
+      text-align:justify;
+      border-radius: 5px;
+      color: #000000;
+      margin-bottom: 100px;
+}
+#middle{
+      font-size: 20px;
+}
+.middle1,.middle2,.middle3,.middle4{
+      font-size: 20px;
+      color: black;
+}
+.middle4:hover{
+      text-decoration: none;
+}
+.middle1:hover{
+      text-decoration: none;
+}
+.middle2:hover{
+      text-decoration: none;
+}
+.middle3:hover{
+      text-decoration: none;
+}
+#style3{
+      font-size: 20px;
+}
+#style4{
+      font-size: 20px;
+      color: black;
+}
+#style4:hover{
+      text-decoration: none;
+}
+
